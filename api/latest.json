@@ -36,31 +36,13 @@
     "summary_ai": "Summary unavailable."
   },
   {
-    "id": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
-    "title": "Google pulls AI overviews for some medical searches",
-    "link": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
-    "source": "The Verge",
-    "category": "global_tech",
-    "published": "2026-01-11T14:19:40-05:00",
-    "summary_ai": "AI Processing Failed."
-  },
-  {
-    "id": "https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness",
-    "title": "Here are over 20 gadgets that’ll help you achieve your New Year’s resolutions",
-    "link": "https://www.theverge.com/gadgets/855851/new-years-resolution-gifts-ideas-2026-tech-gadgets-fitness",
-    "source": "The Verge",
-    "category": "global_tech",
-    "published": "2026-01-11T14:00:00-05:00",
-    "summary_ai": "AI Processing Failed."
-  },
-  {
     "id": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/",
     "title": "16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)",
     "link": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/",
     "source": "WIRED",
     "category": "global_tech",
     "published": "Sun, 11 Jan 2026 12:30:00 +0000",
-    "summary_ai": "AI Processing Failed."
+    "summary_ai": "شملت قائمة \"تقديرات فخرية\" منتجات للعناية بالشعر مثل كريم \"Sutra Heat Guard Blowout Cream\" و\"Mane Temp Check\" وسيروم \"The Rootist BioBrew Fermented Leave-In Repair Serum\" وسيروم \"IGK Good Behavior Supreme Seal Smoothing Serum\" وزيت \"R+Co On a Cloud Bond Building Repair and Styling Oil\" وزيت \"Verb Hydrate Oil\" ورذاذ \"Function of Beauty Smooth With It Blowout Mist\"، والتي تباينت آراء المستخدمين حول فعاليتها في حماية الشعر وتقليل وقت التجفيف."
   },
   {
     "id": "https://www.wired.com/review/bluesound-pulse-cinema/",
@@ -69,6 +51,24 @@
     "source": "WIRED",
     "category": "global_tech",
     "published": "Sun, 11 Jan 2026 12:00:00 +0000",
-    "summary_ai": "AI Processing Failed."
+    "summary_ai": "بينما تواصل Sonos التعافي من مشاكلها البرمجية، تبرز Bluesound كبديل منافس قوي، خاصة مع إطلاقها لأول مكبر صوت سينمائي بتقنية Dolby Atmos Pulse Cinema، والذي يقدم ميزات متقدمة وينافس بقوة في سوق الصوت المنزلي."
+  },
+  {
+    "id": "https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24",
+    "title": "You need to listen to Billy Woods’ horrorcore masterpiece for the A24 crowd",
+    "link": "https://www.theverge.com/column/860372/billy-woods-horrorcore-masterpiece-golliwog-a24",
+    "source": "The Verge",
+    "category": "global_tech",
+    "published": "2026-01-11T18:29:58-05:00",
+    "summary_ai": "صدر ألبوم \"Golliwog\" الجديد لفنان الهيب هوب بيلي وودز، والذي يعتبره النقاد عملاً سوداوياً واستثنائياً يعتمد على الأجواء النفسية والتوتر بدلاً من الرعب الصريح."
+  },
+  {
+    "id": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
+    "title": "Google pulls AI overviews for some medical searches",
+    "link": "https://www.theverge.com/news/860356/google-pulls-alarming-dangerous-medical-ai-overviews",
+    "source": "The Verge",
+    "category": "global_tech",
+    "published": "2026-01-11T14:19:40-05:00",
+    "summary_ai": "**حذر خبراء من مخاطر جسيمة بسبب معلومات طبية خاطئة قدمتها جوجل، حيث نصحت مرضى سرطان البنكرياس بتجنب الأطعمة الدهنية، وهو عكس التوصيات الطبية الضرورية، وقدمت معلومات مضللة حول اختبارات وظائف الكبد، مما قد يؤدي إلى تشخيص خاطئ وعواقب وخيمة على المرضى.**"
   }
 ]
