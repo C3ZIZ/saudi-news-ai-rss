@@ -1,5 +1,7 @@
-# sa-news-ai-rss
+# saudi-news-ai-rss
 An AI-powered RSS workflow that collects Saudi (general, business, tech) and global tech headlines, extracts the article text, and summarizes each story into one Arabic sentence.
+
+Live JSON is served at https://c3ziz.github.io/saudi-news-ai-rss/.
 
 ## How it works
 - Fetch RSS feeds defined in [aggregator.py](aggregator.py#L13-L34) using a browser-like `requests.Session` to avoid bot blocking.
@@ -7,12 +9,28 @@ An AI-powered RSS workflow that collects Saudi (general, business, tech) and glo
 - Download each article with `newspaper3k`, cap extracted text to 2,000 chars, then summarize via Gemini ([summarize_with_ai](aggregator.py#L68-L93)).
 - Rate-limit gently and surface safety blocks; only take a couple of items per source to stay light ([fetch_feed](aggregator.py#L95-L145)).
 - Write results to date-stamped JSON and mirror to `api/latest.json` for easy consumption.
+- The hosted feed on GitHub Pages auto-refreshes daily around 8:00 AM Saudi time (UTC+3).
 
 ## Why it is built this way
 - **Bot evasion:** Browser-like headers and per-source throttling reduce RSS and article blocking.
 - **Duplication control:** Short history prevents reposting the same link across runs.
 - **Graceful degradation:** If AI or extraction fails, the JSON still ships with errors noted rather than breaking the run.
 - **Static API:** Output is plain JSON files, easy to serve from any static host or CDN.
+
+## API usage
+- Latest combined feed: [https://c3ziz.github.io/saudi-news-ai-rss/api/latest.json](https://c3ziz.github.io/saudi-news-ai-rss/api/latest.json)
+- Historical by date: [https://c3ziz.github.io/saudi-news-ai-rss/api/YYYY-MM-DD/news.json](https://c3ziz.github.io/saudi-news-ai-rss/api/2026-01-12/news.json) (replace with any run date)
+
+Example fetch:
+```bash
+curl -s https://c3ziz.github.io/saudi-news-ai-rss/api/latest.json | jq '.[0]'
+```
+Fields per item: `id` (URL), `title`, `link`, `source`, `category`, `published`, `summary_ai`.
+
+## Notes
+- Ensure your host serves the `api/` directory as static files.
+- Gemini summaries require the env var; without it, `summary_ai` contains an error message instead.
+- The live GitHub Pages feed auto-refreshes daily around 8:00 AM Saudi time (UTC+3).
 
 ## Setup
 1) Install Python deps:
@@ -27,17 +45,3 @@ export GEMINI_API_KEY="YOUR_KEY"
 ```bash
 python aggregator.py
 ```
-
-## API usage
-- Latest combined feed: [api/latest.json](api/latest.json)
-- Historical by date: [api/YYYY-MM-DD/news.json](api/2026-01-12/news.json) (replace with any run date)
-
-Example fetch:
-```bash
-curl -s https://your-host/api/latest.json | jq '.[0]'
-```
-Fields per item: `id` (URL), `title`, `link`, `source`, `category`, `published`, `summary_ai`.
-
-## Notes
-- Ensure your host serves the `api/` directory as static files.
-- Gemini summaries require the env var; without it, `summary_ai` contains an error message instead.
