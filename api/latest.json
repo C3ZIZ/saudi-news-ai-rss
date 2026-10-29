@@ -1,74 +1,110 @@
 [
   {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ab2pMTE13VW9BcVRHbDdfdVJRQXgwQlhQZkF4VENDR0x2SHhIaXYtQ3BqVy1IbXNGTEd1eUZMVl9aRGtlNThCYUVwVF81Zw?oc=5",
-    "title": "Saudi Arabia - Arab News",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ab2pMTE13VW9BcVRHbDdfdVJRQXgwQlhQZkF4VENDR0x2SHhIaXYtQ3BqVy1IbXNGTEd1eUZMVl9aRGtlNThCYUVwVF81Zw?oc=5",
+    "id": "https://saudigazette.com.sa/article/665821/saudi-arabia/saudi-business-sector-revenues-rise-23-to-sr563-trillion-in-2025",
+    "title": "Saudi business sector revenues rise 2.3% to SR5.63 trillion in 2025",
+    "link": "https://saudigazette.com.sa/article/665821/saudi-arabia/saudi-business-sector-revenues-rise-23-to-sr563-trillion-in-2025",
+    "source": "https://saudigazette.com.sa",
+    "category": "saudi_general",
+    "published": "Thu, 29 Oct 2026 12:28:09 +0300",
+    "summary_ai": "أظهرت بيانات الهيئة العامة للإحصاء السعودية نمو إيرادات قطاع الأعمال بنسبة 2.3% إلى 5.628 تريليون ريال في عام 2025، مع ارتفاع تعويضات الموظفين بنسبة 6% إلى 624.1 مليار ريال، حيث استحوذ قطاع التصنيع على الحصة الأكبر من الإيرادات."
+  },
+  {
+    "id": "https://saudigazette.com.sa/article/665819/saudi-arabia/saudi-arabias-services-exports-rise-69-to-sr2517-billion-in-2025",
+    "title": "Saudi Arabia’s services exports rise 6.9% to SR251.7 billion in 2025",
+    "link": "https://saudigazette.com.sa/article/665819/saudi-arabia/saudi-arabias-services-exports-rise-69-to-sr2517-billion-in-2025",
+    "source": "https://saudigazette.com.sa",
+    "category": "saudi_general",
+    "published": "Thu, 29 Oct 2026 12:07:16 +0300",
+    "summary_ai": "شهدت صادرات الخدمات السعودية نموًا بنسبة 6.9% لتصل إلى 251.7 مليار ريال في عام 2025، مدفوعة بارتفاع في صادرات خدمات السفر، وفقًا للهيئة العامة للإحصاء."
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2p3OE1BNnB2bFZ5bndZcnZzSm80RnlKcXNzbEZmLUVhcGpkNWJzWVhWWExIWUpfNm9GeE1kQzBiX2RINUxPSENiS1ZQV0pKN2o3MTF3eTBCMjBEeEJscHkyZFQxS21fU195emt3WEgxc0NQUm5lREJuWTRnYmRPWmZOMzh1N2ZKRE13T19pSlFrNjdKTUUyWXc4M2g4Y1ducE5MdFNocGdfR0Z1S0hKVXRBSHFMM05xOHVBN09zYkk5ZWJiTTVUUEpjRUxqNEtXbThLY2lB?oc=5",
+    "title": "Houthi attacks on Saudi airports raise question of war crimes, UN rights chief tells Arab News - Arab News",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2p3OE1BNnB2bFZ5bndZcnZzSm80RnlKcXNzbEZmLUVhcGpkNWJzWVhWWExIWUpfNm9GeE1kQzBiX2RINUxPSENiS1ZQV0pKN2o3MTF3eTBCMjBEeEJscHkyZFQxS21fU195emt3WEgxc0NQUm5lREJuWTRnYmRPWmZOMzh1N2ZKRE13T19pSlFrNjdKTUUyWXc4M2g4Y1ducE5MdFNocGdfR0Z1S0hKVXRBSHFMM05xOHVBN09zYkk5ZWJiTTVUUEpjRUxqNEtXbThLY2lB?oc=5",
     "source": "\"site:www.arabnews.com/saudi-arabia\" - Google News",
     "category": "saudi_general",
-    "published": "Tue, 01 Sep 2026 05:24:25 GMT",
+    "published": "Wed, 28 Oct 2026 20:54:52 GMT",
     "summary_ai": "Error: No text extracted from article source\nClick the link to read the full story."
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWtGNG13VC0wZm9lNEt1dzNmTXdhckx4NUtrNVAtU256SHFjOW9xSUhvVmtaTm9STGFkMzVIa2VYNEpwamJvMzJIR09yc29rSmZfWWtrX1lrbnMxcE5KTzVCclFWajgtLVpzaUVlRUotYU9OM1V5R1lCV0pLTkpCeFljSjdxdEl0Smd2bWluSm5sZEY3UmtKajYyaExfOE1pcU5lNFJOOUwwTWVXYXlCVXVPZnNPd1JVQlhfaEJHTHlrR25HV2YxaW1LRHJpQUtRTV9maWJQcGJqejZhVGc?oc=5",
-    "title": "Makkah pact countries push for peace in Tehran as Saudi defense minister meets Pezeshkian for talks - Arab News",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeWtGNG13VC0wZm9lNEt1dzNmTXdhckx4NUtrNVAtU256SHFjOW9xSUhvVmtaTm9STGFkMzVIa2VYNEpwamJvMzJIR09yc29rSmZfWWtrX1lrbnMxcE5KTzVCclFWajgtLVpzaUVlRUotYU9OM1V5R1lCV0pLTkpCeFljSjdxdEl0Smd2bWluSm5sZEY3UmtKajYyaExfOE1pcU5lNFJOOUwwTWVXYXlCVXVPZnNPd1JVQlhfaEJHTHlrR25HV2YxaW1LRHJpQUtRTV9maWJQcGJqejZhVGc?oc=5",
+    "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0lsWUFxRXMtNkF4RnUwN3NxaC1hMVRvZ3VzbmJ5QzVDWGx6SGNhcU14cjJGN2lBaWlCdS1mQmlaV0p6bEl4TXZXZlN3WGdiSl9tVnFuSUlxMzVqRXloeWRJVFJNV0RSOGwyS0M2b3lYSG5XVkVMQktaQk5leGVvVzJrNHd4MWtvZFVXeVB6M3BiRmxSamdrYzl3QUhfbEJUUF9FeG9vRQ?oc=5",
+    "title": "Syrian mother who fled war killed in Riyadh airport attack - Arab News",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0lsWUFxRXMtNkF4RnUwN3NxaC1hMVRvZ3VzbmJ5QzVDWGx6SGNhcU14cjJGN2lBaWlCdS1mQmlaV0p6bEl4TXZXZlN3WGdiSl9tVnFuSUlxMzVqRXloeWRJVFJNV0RSOGwyS0M2b3lYSG5XVkVMQktaQk5leGVvVzJrNHd4MWtvZFVXeVB6M3BiRmxSamdrYzl3QUhfbEJUUF9FeG9vRQ?oc=5",
     "source": "\"site:www.arabnews.com/saudi-arabia\" - Google News",
     "category": "saudi_general",
-    "published": "Tue, 27 Oct 2026 05:11:00 GMT",
+    "published": "Wed, 28 Oct 2026 13:09:46 GMT",
     "summary_ai": "Error: No text extracted from article source\nClick the link to read the full story."
   },
   {
-    "id": "https://www.argaam.com/en/article/articledetail/id/1947903",
-    "title": "‎Petro Rabigh cuts debt to SAR 14B, says CFO",
-    "link": "https://www.argaam.com/en/article/articledetail/id/1947903",
+    "id": "https://saudigazette.com.sa/article/664434/technology/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans",
+    "title": "Anthropic researcher believes more than 10% chance AI &#039;could kill all humans&#039;",
+    "link": "https://saudigazette.com.sa/article/664434/technology/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans",
+    "source": "https://saudigazette.com.sa",
+    "category": "saudi_business_tech",
+    "published": "Wed, 09 Sep 2026 15:57:20 +0300",
+    "summary_ai": "يحذر باحث رفيع المستوى في مجال الذكاء الاصطناعي من أن هناك احتمالية تتجاوز 10% لأن يؤدي التطور السريع لهذه التقنية إلى \"القضاء على البشرية جمعاء\" خلال العقد القادم، مما يعكس مخاوف متزايدة حول المخاطر الوجودية الناجمة عن سباق تطوير الذكاء الاصطناعي الخارق."
+  },
+  {
+    "id": "https://www.argaam.com/en/article/articledetail/id/1948366",
+    "title": "‎HRDF raises minimum wage for employment support",
+    "link": "https://www.argaam.com/en/article/articledetail/id/1948366",
     "source": "Articles Feed",
     "category": "saudi_business_tech",
-    "published": "Wed, 28 Oct 2026 11:18:00 GMT",
-    "summary_ai": "أكد المدير المالي لشركة بترورابغ، فهد المحيسن، استمرار صحة الطلب على منتجات الشركة في الربع الثالث من عام 2026، مع تحسن أحجام المبيعات وارتفاع الأسعار لبعض المنتجات، مدفوعًا بالتحسينات التشغيلية والمالية المتكاملة التي عززت هامش الربح وسجلت ثاني أعلى ربح ربع سنوي في تاريخ الشركة."
+    "published": "Thu, 29 Oct 2026 12:10:00 GMT",
+    "summary_ai": "أعلن صندوق تنمية الموارد البشرية (HRDF) عن رفع الحد الأدنى لدعم الأجور الشهرية ضمن منتج دعم التوظيف على مرحلتين ليصل إلى 5000 ريال سعودي اعتباراً من 25 أبريل 2027، ثم 6000 ريال سعودي اعتباراً من 25 أبريل 2028، بهدف تمكين الكفاءات الوطنية وتشجيع القطاع الخاص على توظيف السعوديين."
   },
   {
-    "id": "https://www.argaam.com/en/article/articledetail/id/1947902",
-    "title": "‎TASI: SVCP, 2 REITs drop to all-time lows",
-    "link": "https://www.argaam.com/en/article/articledetail/id/1947902",
+    "id": "https://www.argaam.com/en/article/articledetail/id/1948390",
+    "title": "‎SVCP falls to lifetime low",
+    "link": "https://www.argaam.com/en/article/articledetail/id/1948390",
     "source": "Articles Feed",
     "category": "saudi_business_tech",
-    "published": "Wed, 28 Oct 2026 11:11:00 GMT",
-    "summary_ai": "شهدت أسهم \"سنابل الاستثمار\" وصناديق عقارية مدرجة في السوق السعودي أدنى مستوياتها منذ إدراجها اليوم، مما يعكس انخفاضات حادة في قيمتها السوقية."
+    "published": "Thu, 29 Oct 2026 13:11:00 GMT",
+    "summary_ai": "أعلنت شركة أرقام للاستثمار عن تحديث سياسة الخصوصية لخدماتها ومنصاتها الرقمية، مع الإشارة إلى استخدام ملفات تعريف الارتباط (الكوكيز) لتحسين تجربة المستخدم وتحليل حركة المرور."
   },
   {
-    "id": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
-    "title": "Pornhub Stars Want to Teach You How to Make Dinner",
-    "link": "https://www.wired.com/story/adult-video-stars-want-to-teach-you-how-to-make-dinner/",
+    "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWU1yMXFWYnFPUzRpSlBxWXlncW9jczBjX0x3akZKUkVJV24tTFpIVXI0U2N6NjN6NlBiTGRwb2lscHRqVE1OaXVPU3pFbkItR2tCbkJTcXJpRFJEQXM5MUJNZnhpZURiU1RReGxFc1VyUTRfd05KTV9JQW44VUMtZWlaMGxPdDlvTWxxeEVnTlA4WHdKb0xyZHpZM2N6ZV9wT0R5LTRhMGxsYW1rVVZNdDRDNnZ3aEo3XzQ4X1BxOVJieTg?oc=5",
+    "title": "Saudi AI firms Humain, DataVolt partner for data center on kingdom's Red Sea coast - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWU1yMXFWYnFPUzRpSlBxWXlncW9jczBjX0x3akZKUkVJV24tTFpIVXI0U2N6NjN6NlBiTGRwb2lscHRqVE1OaXVPU3pFbkItR2tCbkJTcXJpRFJEQXM5MUJNZnhpZURiU1RReGxFc1VyUTRfd05KTV9JQW44VUMtZWlaMGxPdDlvTWxxeEVnTlA4WHdKb0xyZHpZM2N6ZV9wT0R5LTRhMGxsYW1rVVZNdDRDNnZ3aEo3XzQ4X1BxOVJieTg?oc=5",
+    "source": "\"Saudi Arabia NEOM Artificial Intelligence Technology\" - Google News",
+    "category": "saudi_business_tech",
+    "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "summary_ai": "Error: No text extracted from article source\nClick the link to read the full story."
+  },
+  {
+    "id": "https://www.wired.com/story/best-kindle-accessories/",
+    "title": "The Kindle Accessories I Never Want to Read Without (2026)",
+    "link": "https://www.wired.com/story/best-kindle-accessories/",
     "source": "WIRED",
     "category": "global_tech",
-    "published": "Wed, 28 Oct 2026 10:45:00 +0000",
-    "summary_ai": "تراهن منصة Pornhub على مستقبل المحتوى الآمن للعرض، مستقطبةً اهتمامًا متزايدًا بالمشاهدين الراغبين في التعرف على صناع المحتوى في مجالات الألعاب والطهي والبودكاست، بما يتجاوز أدوارهم التقليدية في المحتوى الإباحي."
+    "published": "Thu, 29 Oct 2026 11:03:00 +0000",
+    "summary_ai": "تقدم المقالة دليلاً شاملاً لأفضل ملحقات جهاز كيندل، بدءاً من الأغطية الواقية المزخرفة إلى الأدوات المساعدة على القراءة المريحة، مع تحديثات تشمل الشواحن ومستجدات الأسعار."
   },
   {
-    "id": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
-    "title": "Apple AirPods Max 2 Are $100 Off Ahead of Black Friday",
-    "link": "https://www.wired.com/story/apple-airpods-max-2-deal-november-2026/",
+    "id": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
+    "title": "An AI Breakthrough Has Made Decades of Computer Science Research ‘Irrelevant’",
+    "link": "https://www.wired.com/story/ai-made-decades-of-computer-science-research-irrelevant/",
     "source": "WIRED",
     "category": "global_tech",
-    "published": "Wed, 28 Oct 2026 10:30:00 +0000",
-    "summary_ai": "تقدم أمازون خصومات على سماعات Apple AirPods Max 2 و AirPods Pro 3، مما يجعلها فرصة جيدة للشراء لمحبي منتجات آبل."
+    "published": "Thu, 29 Oct 2026 10:45:00 +0000",
+    "summary_ai": "كشفت تقنيات الذكاء الاصطناعي عن خطأ في فرضية استمرت 27 عامًا، مما يعيد تشكيل نظريات علوم الحاسوب الأساسية ويستلزم مراجعة واسعة للأبحاث الحالية."
   },
   {
-    "id": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
-    "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
-    "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
+    "id": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+    "title": "AI has come for Arizona’s water",
+    "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
     "source": "The Verge",
     "category": "global_tech",
-    "published": "2026-10-27T18:55:05-04:00",
-    "summary_ai": "أقرت شركة آبل بوجود \"مشكلة\" في الشاشات الداخلية لهواتفها القابلة للطي \"آيفون ديفايس\" بعد ساعات من إطلاقها، حيث أشار خبراء إلى أن الخلل يتعلق بآلية المفصلة الحساسة التي قد تضغط على الشاشة مسببة تشققات."
+    "published": "2026-10-29T06:00:04-04:00",
+    "summary_ai": "تواجه ولاية أريزونا ضغوطًا متزايدة لتوفير موارد المياه والطاقة والأراضي اللازمة لتوسعات جديدة لمراكز البيانات، على الرغم من النجاح الاقتصادي الكبير لمصنع شركة تايوان لصناعة أشباه الموصلات (TSMC) في الولاية."
   },
   {
-    "id": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+    "id": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+    "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+    "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
     "source": "The Verge",
     "category": "global_tech",
-    "published": "2026-10-27T16:48:58-04:00",
-    "summary_ai": "كشفت \"أوبن إيه آي\" عن تقدم كبير في مجالات الرياضيات وعلوم الحاسوب والفيزياء، لكن الباحثين يشعرون بالإرهاق من أساليبها المتغيرة في مشاركة اكتشافاتها."
+    "published": "2026-10-28T22:22:46-04:00",
+    "summary_ai": "**الخبر:**\n\n\"المسؤولون عن مشروع الحاسوب المحمول 'بلو تشيب' يؤكدون أن نسبة المكونات المصنعة في الولايات المتحدة ستكون خليطاً بين الإنتاج المحلي وبعض الحلفاء، مع عدم وجود نسبة مئوية محددة بعد، وذلك بسبب التحديات المتعلقة بتوفر خطوط إنتاج معينة.\""
   }
 ]
